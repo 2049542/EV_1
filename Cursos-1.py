@@ -1,4 +1,5 @@
-Numero_fav = int(float("Escribe tu numero favorito."))
-Nombre = int(str("Escribe tu nombre: "))
+Numero_fav = float(input("Escribe tu numero favorito: "))
+
+Nombre = (input("Escribe tu nombre: "))
 
 print (Numero_fav, Nombre)
