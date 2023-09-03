@@ -15,4 +15,4 @@ def cargar():
     mostrar_mayor(valor1, valor2, valor3)
 
 cargar()
-mostrar_mayor()
+
